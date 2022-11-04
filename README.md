@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋🏼, I'm Karla Cruz</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
+*About me!*
+- I studied topography engineering but my curiosity and perseverance
+driven to seek new challenges and Projects. That's why I decided to redirect
+my career towards technology and programming. As a front end developer,
+my greatest satisfaction when creating projects is to see how my effort evolves, 
+takes shape and comes to life through technology.
+
 - 🌱 I’m currently learning **In an intensive front end developer bootcamp at Laboratoria**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Karlacruz11](https://github.com/Karlacruz11)
