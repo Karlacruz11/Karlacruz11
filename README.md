@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Karla Cruz</h1>
+![Hello IN](https://user-images.githubusercontent.com/108834282/199887555-32b45e6b-b0b7-4ad1-b049-7508ab512b91.png)
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 *About me!*
